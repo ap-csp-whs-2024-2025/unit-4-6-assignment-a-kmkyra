@@ -14,7 +14,8 @@
 int main()
 {
     // Complete your homework here
-
+    void compare(int x, int y);
+    
     
     return 0;
 }
