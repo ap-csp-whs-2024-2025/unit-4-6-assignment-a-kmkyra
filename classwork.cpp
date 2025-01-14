@@ -13,8 +13,15 @@
 
 // In-Class Examples
 // greet procedure
-
+void greet()
+{
+    std::cout << "Hello there!\n";
+}
 // goodbye procedure
+void goodbye(std::string name)
+{
+    std::cout << "See you later " << name << std::endl;
+}
 
 
 // TODO: Create squareNum
